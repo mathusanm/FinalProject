@@ -1,0 +1,20 @@
+A B 6 F 5
+B C 5 G 6
+C D 7 H* 5
+D E 7 I 8
+E I 6 N 15
+F G 8 J 7
+G H* 9 K* 8
+H* I 12
+J K* 5 O 7
+K* L 7
+L P 7 M 7
+M N 9
+N R 7
+O P 13 S 9
+Q* R 9
+R W 10
+S T* 9
+T* U 8
+U V 8
+V W 5
